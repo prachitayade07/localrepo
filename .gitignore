@@ -1,0 +1,19 @@
+# Ignore dataset folder
+dataset/
+
+# Ignore CSV and large files
+*.csv
+*.pkl
+*.zip
+*.xlsx
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# OS junk files
+.DS_Store
+Thumbs.db
